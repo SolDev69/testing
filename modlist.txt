@@ -1,124 +1,176 @@
-21discbackport
 A Man With Plushies
-Abyssal descent
-Ad Astra
-Ad Tetra!
-Adorn
-Alex's Caves
-Alex's Mobs
+Alloy Forgery
+Almanac
 AlmostUnified
 Alternate Current
 Amendments
 Another Furniture
 AppleSkin
-Applied Energistics 2
 Architectury
 Artifacts
 Ascension Megamons
 Athena
 AttributeFix
+Auth Me
 Automobility
+Axolotl Item Fix
+BCG Music
+BCG Util
+BCG_SMP
+BCLib
+BHMenu-Fabric
 Bad Wither No Cookie Reloaded
-BadOptimizations
 Balm
 Bartering Station
 Beautify
 BedBenefits
-Better Beds Reforged
+Better Beds
 Better Climbing
-Better Compatibility Checker
-Blue Skies
+Better Combat
+Better End
+Better Third Person
+BetterEnd Crashed Ships
+BitsAndChisels
+Blåhaj
+Boat Break Fix
 Bookshelf
-Botania
-Botarium
-Brandon's Core
-CBC: Nukes
-Caelus API
+Building But Better
+Building Wands
+Cardinal Components API
+Carry On
+Charm of Undying
 Chat Heads
-Cherished Worlds
-Chunky
-Citadel
-Cloth Config v10 API
-Cloud Storage
+Chefs Delight
+Chimes
+Chipped
+Cloth Config v11
+Clumps
+Cluttered
+Cobbledex
 Cobblemon
-Cobblemon Capture XP
-Cobblemon Fight or Flight
+Cobblemon Capture EXP
+Cobblemon Fight or Flight Fabric
+Cobblemon Quests
+Cobblemon Spawn Notification
+Cobblemon UI Tweaks
+Cobblemon: Simple TM's
 Cobblepedia
 Cobbreeding
-Cobweb
-CodeChicken Lib
-Collective
-ColossalChests
 Comforts
+Common Network
 CompactStorage
-Controlling
+Connectivity Mod
+Controlling For Fabric
+Convenient Decor
 CoroUtil
-Cracker's Wither Storm Mod
+Crawl
 Create
 Create Big Cannons
+Create Crafts & Additions
 Create Deco
-Create Diesel Generators
 Create Enchantment Industry
-Create Railways Navigator
-Create Realism
 Create Slice & Dice
-Create Track Map
-Create Tram Additions
-Create: Better Motors
 Create: Cobblemon Industrialized
-Create: Extra Casing
+Create: Copycats+
 Create: Steam 'n' Rails
-Create: Trains on Trains
-Create: Tramways
-Create_waystones_recipes
-Curios API
-Cyclops Core
-Dimensional Ascension Tetra Compat
-Distant Horizons
-Do a Barrel Roll
-Draconic Evolution
-Drop Head
-Dynamic Crosshair
-Dynamic FPS
-Embeddium
-Enchantment Level Language Patch
+Creeper Overhaul
+Critters and Companions
+CustomCursorComm
+DEUF Refabricated
+Daily Shop
+DarkUtilities
+Debugify
+Diagonal Fences
+Diagonal Walls
+Diagonal Windows
+DimensionalSyncFixes
+Dragonfight Mod
+Drippy Loading Screen
+EMI
+Easy Anvils
+Easy Magic
+Elytra Slot
+Emotecraft
+End Remastered
+End's Delight
+Enderman Overhaul
+Entity Model Features
+Entity Texture Features
 EntityCulling
-Epic Dungeons
-Farmer's Cutting: Blue Skies
-Farmer's Cutting: The Aether
-Farmer's Cutting: Twilight Forest
+Every Compat
+Expanded Delight
+Explorer's Compass
+Explosive Enhancement
+Exposure
+Extended Cogwheels
+Extra Thicc Packets
+FTB Chunks
+FTB Essentials
+FTB Library
+FTB Quests
+FTB Teams
+FTB Ultimine
+FTB XMod Compat
+Fabric API
+Fabric Language Kotlin
+Fabric Waystones
+Falling Leaves
+FancyMenu
 Farmer's Delight
+Farsight Mod
+Fast IP Ping
 Fast Paintings
-Ferrite Core
+Faster Random
+FerriteCore
+Forge Config API Port
+Framework
+Friends & Foes
+Friends&Foes - Beekeeper Hut
+Friends&Foes - Flowery Mooblooms
+Fzzy Config
 GeckoLib 4
 Get It Together, Drops!
 GlitchCore
+Global Packs
+Go Fish
+Gpu memory leak fix mod
+Grind Enchantments
+GuardVillagers
+Guarding
+GymBadges
 Hamsters
-Highlighter
-Iceberg
+Handcrafted
+Herds Panic
+Horse Expert
+Icarus
+Illager Invasion
 ImmediatelyFast
 Immersive Aircraft
-Immersive Armors
-Immersive Engineering
-Immersive Melodies
 Immersive Paintings
+Incantationem
 Incendium
-Infernal Mobs
-Infinite Abyss
-Inventory Pets
+Indium
 Inventory Profiles Next
+Iris
+Iris Flywheel Compat
 Item Collectors
 Item Filters
 Item Obliterator
 Jade
-JourneyMap Integration
+JourneyMapIntegration
 Journeymap
 Joy of Painting
 Jump Over Fences
-Kotlin for Forge
+Konkrete
+KubeJS
+Language Reload
 Leave My Bars Alone
+Leaves Be Gone
+Let Me Despawn
+Lithium
 Load My F***ing Tags
 Log Begone
+Lootintegrations mod
 Lootr
 Macaw's Bridges
 Macaw's Doors
@@ -126,90 +178,125 @@ Macaw's Fences and Walls
 Macaw's Furniture
 Macaw's Holidays
 Macaw's Lights and Lamps
-Macaw's Paintings
 Macaw's Paths and Pavings
 Macaw's Roofs
 Macaw's Trapdoors
 Macaw's Windows
-Mekanism
-Mekanism: Additions
-Mekanism: Generators
-Mekanism: Tools
-Minecards
+Magnum Torch
+Man of Many Planes
+Melody
+Memory Leak Fix
+Mighty Mail
 Minecraft Transit Railway
+MixinTrace
+Mod Menu
+Model Gap Fix
 ModernFix
-Moonlight Library
-Moving Elevators
-Mowzie's Delight
-Mowzie's Mobs
+Moog's Soaring Structures
+Moog's Voyager Structures
+Moonlight
+More Axolotl
+More Axolotl Variants API
+More Axolotl Variants Mod
+Mouse Tweaks
+Music Maker Mod
+Mythic Metals
+Naturalist
+Nature's Compass
 Necronomicon
+Neruina
+NetherPortalFix
 Night Lights
-Noisium
+No Chat Reports
 NotEnoughAnimations
 Ocean's Delight
-Oculus
-Oculus Flywheel Compat
+Overflowing Bars
+Packet Fixer
+Particle Core
 Patchouli
+Pehkui
+Permanent Sponges
+PigPen
+Ping Wheel
+Player Animator
+Plushie Mod
 Polymorph
 Puzzles Lib
-Rats
+Reacharound
+Rebind Narrator
+Reese's Sodium Options
+Remove Terralith Intro Message
+Resource Pack Overrides
 Resourceful Lib
 Resourcefulconfig
-Roughly Enough Items (REI)
+Rhino
+Ribbits
+Runelic
 Searchables
 SeasonHUD
-Serene Seasons
-Shadowlands
+Selling Bin
+SereneSeasons
+Server Redirect
+Shader Toggle
+Simple Discord Rich Presence
 Simple Voice Chat
 SimpleHats
-Sophisticated Backpacks
-Sophisticated Core
-Soul Fire'd
+Simply Swords
+Small Ships
+Sodium
+Sodium Extra
+Spice of Fabric
+Stacc
+Straw Statues
 Structory
 Structory: Towers
-Structure Gel API
-SuperMartijn642's Config Library
+Structure Essentials Mod
+Stylish Effects
+SuperMartijn642's Config Lib
 SuperMartijn642's Core Lib
 Supplementaries
-Supplementaries Delight
 Supplementaries Squared
 TerraBlender
 Terralith
-Terramity
-Tetra's Delight
-Thalassophobia
-The Aether
-The Twilight Forest
-The Undergarden
+Things
 Tom's Simple Storage Mod
 ToolStats
+Trade Cycling
+Trading Post
+Trash Cans
 Traveler's Backpack
-Twilight's Flavor & Delight
+Trinkets
 Ube's Delight
-Undergarden Delight
-Veinminer
+Universal Shops
+Vanity Slots
 Villager Names
-Waystones
-Weather2
-Wesley's Roguelike Dungeons
+Visual Workbench
 What Are They Up To
-When Dungeons Arise
+YOSBR
 YUNG's API
-YUNG's Better Desert Temples
 YUNG's Better Dungeons
 YUNG's Better End Island
-YUNG's Better Jungle Temples
 YUNG's Better Mineshafts
-YUNG's Better Nether Fortresses
 YUNG's Better Ocean Monuments
 YUNG's Better Strongholds
-YUNG's Better Witch Huts
-YUNG's Bridges
-YUNG's Cave Biomes
 YUNG's Extras
-YetGamer's Illegal blocks
+YetAnotherConfigLib
 You Shall Not Spawn
+You're in Grave Danger
+Zoomify
+[Let's Do] API
+[Let's Do] Bakery
+[Let's Do] Brewery
+[Let's Do] Candlelight
+[Let's Do] HerbalBrews
+[Let's Do] Vinery
+clickadv mod
+cupboard
+e4mc
+emi-letsdo-compat
+idwtialsimmoedm
 libIPN
-mutil
-tetra
-underground_village
+mine-spawners
+oωo
+recipeessentials Mod
+spark
