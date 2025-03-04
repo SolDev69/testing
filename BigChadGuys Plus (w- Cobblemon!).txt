@@ -1,0 +1,302 @@
+A Man With Plushies
+Alloy Forgery
+Almanac
+AlmostUnified
+Alternate Current
+Amendments
+Another Furniture
+AppleSkin
+Architectury
+Artifacts
+Ascension Megamons
+Athena
+AttributeFix
+Auth Me
+Automobility
+Axolotl Item Fix
+BCG Music
+BCG Util
+BCG_SMP
+BCLib
+BHMenu-Fabric
+Bad Wither No Cookie Reloaded
+Balm
+Bartering Station
+Beautify
+BedBenefits
+Better Beds
+Better Climbing
+Better Combat
+Better End
+Better Third Person
+BetterEnd Crashed Ships
+BitsAndChisels
+Blåhaj
+Boat Break Fix
+Bookshelf
+Building But Better
+Building Wands
+Cardinal Components API
+Carry On
+Charm of Undying
+Chat Heads
+Chefs Delight
+Chimes
+Chipped
+Cloth Config v11
+Clumps
+Cluttered
+Cobbledex
+Cobblemon
+Cobblemon Capture EXP
+Cobblemon Fight or Flight Fabric
+Cobblemon Quests
+Cobblemon Spawn Notification
+Cobblemon UI Tweaks
+Cobblemon: Simple TM's
+Cobblepedia
+Cobbreeding
+Comforts
+Common Network
+CompactStorage
+Connectivity Mod
+Controlling For Fabric
+Convenient Decor
+CoroUtil
+Crawl
+Create
+Create Big Cannons
+Create Crafts & Additions
+Create Deco
+Create Enchantment Industry
+Create Slice & Dice
+Create: Cobblemon Industrialized
+Create: Copycats+
+Create: Steam 'n' Rails
+Creeper Overhaul
+Critters and Companions
+CustomCursorComm
+DEUF Refabricated
+Daily Shop
+DarkUtilities
+Debugify
+Diagonal Fences
+Diagonal Walls
+Diagonal Windows
+DimensionalSyncFixes
+Dragonfight Mod
+Drippy Loading Screen
+EMI
+Easy Anvils
+Easy Magic
+Elytra Slot
+Emotecraft
+End Remastered
+End's Delight
+Enderman Overhaul
+Entity Model Features
+Entity Texture Features
+EntityCulling
+Every Compat
+Expanded Delight
+Explorer's Compass
+Explosive Enhancement
+Exposure
+Extended Cogwheels
+Extra Thicc Packets
+FTB Chunks
+FTB Essentials
+FTB Library
+FTB Quests
+FTB Teams
+FTB Ultimine
+FTB XMod Compat
+Fabric API
+Fabric Language Kotlin
+Fabric Waystones
+Falling Leaves
+FancyMenu
+Farmer's Delight
+Farsight Mod
+Fast IP Ping
+Fast Paintings
+Faster Random
+FerriteCore
+Forge Config API Port
+Framework
+Friends & Foes
+Friends&Foes - Beekeeper Hut
+Friends&Foes - Flowery Mooblooms
+Fzzy Config
+GeckoLib 4
+Get It Together, Drops!
+GlitchCore
+Global Packs
+Go Fish
+Gpu memory leak fix mod
+Grind Enchantments
+GuardVillagers
+Guarding
+GymBadges
+Hamsters
+Handcrafted
+Herds Panic
+Horse Expert
+Icarus
+Illager Invasion
+ImmediatelyFast
+Immersive Aircraft
+Immersive Paintings
+Incantationem
+Incendium
+Indium
+Inventory Profiles Next
+Iris
+Iris Flywheel Compat
+Item Collectors
+Item Filters
+Item Obliterator
+Jade
+JourneyMapIntegration
+Journeymap
+Joy of Painting
+Jump Over Fences
+Konkrete
+KubeJS
+Language Reload
+Leave My Bars Alone
+Leaves Be Gone
+Let Me Despawn
+Lithium
+Load My F***ing Tags
+Log Begone
+Lootintegrations mod
+Lootr
+Macaw's Bridges
+Macaw's Doors
+Macaw's Fences and Walls
+Macaw's Furniture
+Macaw's Holidays
+Macaw's Lights and Lamps
+Macaw's Paths and Pavings
+Macaw's Roofs
+Macaw's Trapdoors
+Macaw's Windows
+Magnum Torch
+Man of Many Planes
+Melody
+Memory Leak Fix
+Mighty Mail
+Minecraft Transit Railway
+MixinTrace
+Mod Menu
+Model Gap Fix
+ModernFix
+Moog's Soaring Structures
+Moog's Voyager Structures
+Moonlight
+More Axolotl
+More Axolotl Variants API
+More Axolotl Variants Mod
+Mouse Tweaks
+Music Maker Mod
+Mythic Metals
+Naturalist
+Nature's Compass
+Necronomicon
+Neruina
+NetherPortalFix
+Night Lights
+No Chat Reports
+NotEnoughAnimations
+Ocean's Delight
+Overflowing Bars
+Packet Fixer
+Particle Core
+Patchouli
+Pehkui
+Permanent Sponges
+PigPen
+Ping Wheel
+Player Animator
+Plushie Mod
+Polymorph
+Puzzles Lib
+Reacharound
+Rebind Narrator
+Reese's Sodium Options
+Remove Terralith Intro Message
+Resource Pack Overrides
+Resourceful Lib
+Resourcefulconfig
+Rhino
+Ribbits
+Runelic
+Searchables
+SeasonHUD
+Selling Bin
+SereneSeasons
+Server Redirect
+Shader Toggle
+Simple Discord Rich Presence
+Simple Voice Chat
+SimpleHats
+Simply Swords
+Small Ships
+Sodium
+Sodium Extra
+Spice of Fabric
+Stacc
+Straw Statues
+Structory
+Structory: Towers
+Structure Essentials Mod
+Stylish Effects
+SuperMartijn642's Config Lib
+SuperMartijn642's Core Lib
+Supplementaries
+Supplementaries Squared
+TerraBlender
+Terralith
+Things
+Tom's Simple Storage Mod
+ToolStats
+Trade Cycling
+Trading Post
+Trash Cans
+Traveler's Backpack
+Trinkets
+Ube's Delight
+Universal Shops
+Vanity Slots
+Villager Names
+Visual Workbench
+What Are They Up To
+YOSBR
+YUNG's API
+YUNG's Better Dungeons
+YUNG's Better End Island
+YUNG's Better Mineshafts
+YUNG's Better Ocean Monuments
+YUNG's Better Strongholds
+YUNG's Extras
+YetAnotherConfigLib
+You Shall Not Spawn
+You're in Grave Danger
+Zoomify
+[Let's Do] API
+[Let's Do] Bakery
+[Let's Do] Brewery
+[Let's Do] Candlelight
+[Let's Do] HerbalBrews
+[Let's Do] Vinery
+clickadv mod
+cupboard
+e4mc
+emi-letsdo-compat
+idwtialsimmoedm
+libIPN
+mine-spawners
+oωo
+recipeessentials Mod
+spark
